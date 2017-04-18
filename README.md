@@ -1,5 +1,5 @@
-# Face Detection with Python and rotate a Servo using Arduino
-Face Detection and rotate a Servo using Arduino
+# Detect Faces and rotate a Servo
+Detect Faces and rotate a Servo 
 
 Works only on Linux, Without Issues 
 
