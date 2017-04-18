@@ -16,10 +16,10 @@ class testHTTPServer_RequestHandler(BaseHTTPRequestHandler):
     def tweet(self):
         # Fill in the values noted in previous step here
         cfg = {
-            "consumer_key": "2lsDZRmiKKgfzZw4QzB2toMzW",
-            "consumer_secret": "TcbGm1rkJFN6vI0RO9abNKangWJFn0tMkldpBeDUFi91ScUtSs",
-            "access_token": "843433466809212928-uliA1j4SltvRSn1a62dNtI7hY44NnCB",
-            "access_token_secret": "9mwuLaIhBRoxiAdpIbI98z6xqJ1WP0ZiftfLDBGTfgxh1"
+            "consumer_key": "###################",
+            "consumer_secret": "#########################",
+            "access_token": "################################",
+            "access_token_secret": "################################"
         }
         ts = time.time()
         st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
