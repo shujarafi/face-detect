@@ -3,5 +3,7 @@ Face Detection and rotate a Servo using Arduino
 
 Works only on Linux, Without Issues 
 
-stay tuned --> ardunio part will be added soon
+http://shujasblog.blogspot.com/
+
+
 
