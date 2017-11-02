@@ -65,6 +65,8 @@ def UnknownSMSTime():
     if UnknownTimeLogic == 0:
 
         CMDvar = subprocess.check_output(["curl", "-X", "POST", "-F", "'your_name=shuja'", "http://localhost:8081"])
+        #SMS through USB
+        ##code
         print CMDvar
 
         UnknownTimeLogic = 1
