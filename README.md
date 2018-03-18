@@ -1,4 +1,4 @@
-# Detect Faces and rotate a Servo
+# Detect Faces Real time and rotate a Servo
 Detect Faces Using OpenCV with Python and Rotate Servo through Arduino.
 
 Store Faces in SQLite DB
